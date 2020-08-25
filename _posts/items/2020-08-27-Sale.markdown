@@ -5,5 +5,5 @@ categories: item
 image: 1
 color: Grey
 price: 300
-form_link: https://docs.google.com/forms/d/e/1FAIpQLSdZIVIf7nefdQGNQdzJxsB8oxJAGl6rrCmTo3GquAzgMsXwHA/viewform?usp=sf_link
+form_link: https://forms.gle/6WHYQ9aVqDnXsG6h9
 ---
