@@ -278,8 +278,8 @@ title: Home
             {% assign item = site.categories['item'] | reverse %}
             {% for post in item %}
 		         <div class="col-lg-3 col-md-6 col-6 special-grid best-seller text-center" style="padding-top:20px; padding-bottom:20px;">
-                    <img src="./assets/img/product/{{post.image}}.jpeg" class="img-fluid" alt="Image"><br>
-                    Rs. {{post.price}} <del>{{post.original_price}}</del><br>
+                    <img src="./assets/img/product/{{post.image}}.png" class="img-fluid" alt="Image"><br>
+                    Rs. {{post.price}} <br>
                     <h3><a href="{{ post.url | absolute_url }}">BUY NOW</a></h3>
 		          </div>    
             {% endfor %}
