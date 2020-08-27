@@ -1,1 +1,0 @@
-All product images
