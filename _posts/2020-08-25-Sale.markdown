@@ -10,4 +10,5 @@ image3: 2_3
 color3: Red
 price: 300 
 form_link: 1FAIpQLSfMdrLNHELm2hRAjzEGBXGSfh9XKynCFBBUbIWtG8VvmOnydg
+productcode: AUG003
 ---
